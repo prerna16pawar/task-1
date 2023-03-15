@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('./learner-enrollment-survey-form.jpg');
+  background-size: contain  ;
+}
+
+html{
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar{
+  width: 0;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb{
+  background:rgb(146, 243, 146);
+}
+form{
+  width: 100%;
+}
